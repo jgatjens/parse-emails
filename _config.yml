@@ -10,3 +10,14 @@ markdown: kramdown
 # permalink: pretty
 
 exclude: [Gemfile]
+
+
+apptitle: myPoke app
+password: 
+ desc: New Password for
+ button: Change Password
+
+verification: Successfully verified your email!
+passwordupdate: Successfully updated your password!
+
+

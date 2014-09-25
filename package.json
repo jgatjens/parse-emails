@@ -1,0 +1,23 @@
+{
+  "name": "parse-emails",
+  "version": "0.0.0",
+  "description": "parse custom emails",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-gh-pages": "^0.3.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jgatjens/parse-emails.git"
+  },
+  "author": "Jairo Gatjens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgatjens/parse-emails/issues"
+  },
+  "homepage": "https://github.com/jgatjens/parse-emails"
+}

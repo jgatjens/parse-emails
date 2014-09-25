@@ -1,0 +1,12 @@
+# Site settings
+title: Custom Parse Emails
+email: jgatjens@gmail.com
+description: "Custom parse emails for parse.com static templates"
+baseurl: ""
+url: "http://yourdomain.com"
+
+# Build settings
+markdown: kramdown
+# permalink: pretty
+
+exclude: [Gemfile]

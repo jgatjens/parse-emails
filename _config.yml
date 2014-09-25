@@ -2,8 +2,8 @@
 title: Custom Parse Emails
 email: jgatjens@gmail.com
 description: "Custom parse emails for parse.com static templates"
-baseurl: ""
-url: "http://yourdomain.com"
+baseurl: "/parse-emails"
+# url: "http://yourdomain.com"
 
 # Build settings
 markdown: kramdown

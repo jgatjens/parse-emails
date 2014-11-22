@@ -12,7 +12,7 @@ markdown: kramdown
 exclude: [Gemfile]
 
 
-apptitle: myPoke app
+apptitle: Pokemon App
 password: 
  desc: New Password for
  button: Change Password

@@ -11,6 +11,8 @@ markdown: kramdown
 
 exclude: [Gemfile]
 
+twitter: jgatjens
+twitterUrl: https://twitter.com/jgatjens
 
 apptitle: Pokemon App
 password: 
